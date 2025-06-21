@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useContext, useState } from "react";
-import ImageSelection from "./_components/imageSelection";
+import ImageSelection from "./_components/ImageSelectionmage";
 import RoomType from "./_components/RoomType";
 import DesignType from "./_components/DesignType";
 import AddittionalReq from "./_components/AddittionalReq";
